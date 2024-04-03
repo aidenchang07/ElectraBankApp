@@ -1,4 +1,4 @@
-package com.adncoding.electrabankapp.presentation
+package com.adncoding.electrabankapp.presentation.main
 
 /**
  * Created by AidenChang 2024/04/03

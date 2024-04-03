@@ -1,4 +1,4 @@
-package com.adncoding.electrabankapp.presentation
+package com.adncoding.electrabankapp.presentation.main
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity

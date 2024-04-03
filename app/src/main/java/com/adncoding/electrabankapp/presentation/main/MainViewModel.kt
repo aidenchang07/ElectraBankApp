@@ -1,4 +1,4 @@
-package com.adncoding.electrabankapp.presentation
+package com.adncoding.electrabankapp.presentation.main
 
 import androidx.compose.runtime.State
 import androidx.compose.runtime.mutableStateOf
